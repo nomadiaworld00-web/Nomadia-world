@@ -1,0 +1,20 @@
+{
+  "site": {
+    "nom": "Ma Chaîne Voyage",
+    "youtube": "https://www.youtube.com/@VOTRE-CHAINE",
+    "email": "votre.adresse@exemple.com"
+  },
+  "guides": [
+    {
+      "id": "australie",
+      "titre": "Australie — 20 choses incroyables à faire",
+      "destination": "Australie",
+      "description": "Le guide qui accompagne la vidéo : 20 expériences de rêve, du Skyrail de Kuranda aux requins-baleines, avec le train The Ghan et l'observation des baleines.",
+      "couverture": "couverture-australie.svg",
+      "pdf": "australie.pdf",
+      "pages": "",
+      "prix": "",
+      "disponible": false
+    }
+  ]
+}
